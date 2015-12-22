@@ -40,7 +40,9 @@ public class MainActivity extends Activity {
 
     {
         int i = 0;
+        int i2 = 0;
         i = i+1;
+        i2 = i+1;
     }
 
 }
